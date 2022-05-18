@@ -14,7 +14,7 @@ Use the NASA API described [here](https://api.nasa.gov) to build a Vuejs front e
 - The project should run and build locally, after you submit it (each time you submit it)
 - include relevant documentation (e.g., .MD file) in the repository.
 
-## Bonuses
+## Bonus
 
 - Bonus: unit tests, static analysis, performance tests, or any other things you feel are important to meet Acceptance Criteria for Definition of Done
 - Bonus: have the application run in a Docker container
