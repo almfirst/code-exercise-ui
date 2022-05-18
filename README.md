@@ -1,4 +1,4 @@
-# Code Exercise - UI
+# Code Exercise - UI Only
 
 Use the NASA API described [here](https://api.nasa.gov) to build a Vuejs front end client that calls the Mars Rover Photos API with a given day as input, returning corresponding photo images as output. The submission of the project should be via GitHub.
 
